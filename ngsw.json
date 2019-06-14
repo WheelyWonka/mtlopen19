@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1560521653832,
+  "timestamp": 1560536326235,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -1189,7 +1189,7 @@
     "/assets/fonts/wicked_mouse_demo-webfont.woff": "8a7aec78f48a1d43a7cf5c3623e467a9ebf24204",
     "/assets/fonts/wicked_mouse_demo-webfont.woff2": "c14725f8805df6f7c8f3df22d1ce6f4fe37afc15",
     "/assets/i18n/en.json": "42668e9bd46388336d4c3cbadd98e5c277090f4d",
-    "/assets/i18n/fr.json": "f9f0687ce5e201f9316e6c142baa7a419a40b97a",
+    "/assets/i18n/fr.json": "7f37fe82833265930d6e74a49bcc1c88dedf7dd8",
     "/assets/i18n/keys.json": "891c35c262b1a142ee24773abeb75d4910a2270f",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -1199,7 +1199,7 @@
     "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/assets/img/banner.png": "08b8296562e81f2b88e2c959bc944033e30cd754",
+    "/assets/img/banner.png": "90c35308afbcdd49e7afe627889bd8ca949da00f",
     "/assets/img/insta-stories.png": "ee7146b423ed38eb928cbc6799ab5482cf0c73a7",
     "/assets/img/poster-letter-format.png": "623e118b4c96670458d191e2101f4f35c56d83da",
     "/assets/nah-ruleset-2017.pdf": "ff7754c1cb1ce48f6094dfc77ea940748dad1417",
