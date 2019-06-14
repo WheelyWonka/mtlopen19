@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1560538399126,
+  "timestamp": 1560538827524,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -1189,7 +1189,7 @@
     "/assets/fonts/wicked_mouse_demo-webfont.ttf": "976b784bde237d0af7d307a9a3f9bc7fdb430a0c",
     "/assets/fonts/wicked_mouse_demo-webfont.woff": "8a7aec78f48a1d43a7cf5c3623e467a9ebf24204",
     "/assets/fonts/wicked_mouse_demo-webfont.woff2": "c14725f8805df6f7c8f3df22d1ce6f4fe37afc15",
-    "/assets/i18n/en.json": "42668e9bd46388336d4c3cbadd98e5c277090f4d",
+    "/assets/i18n/en.json": "4bfa82c0359f04dbb336de1005c5c382f20b6213",
     "/assets/i18n/fr.json": "7f37fe82833265930d6e74a49bcc1c88dedf7dd8",
     "/assets/i18n/keys.json": "891c35c262b1a142ee24773abeb75d4910a2270f",
     "/assets/icons/icon-128x128.png": "d214a21933139f643ffcd1fdf4c0dc66888d65c7",
