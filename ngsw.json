@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1561821010657,
+  "timestamp": 1562435771775,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.8654a2db7d21a203fb68.js",
+        "/main.075b54264a8f8b8c7931.js",
         "/polyfills.0df3aa78a3eccf31b63d.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/scripts.e84e36a0841a046b4d25.js",
@@ -1188,8 +1188,8 @@
     "/assets/fonts/wicked_mouse_demo-webfont.ttf": "976b784bde237d0af7d307a9a3f9bc7fdb430a0c",
     "/assets/fonts/wicked_mouse_demo-webfont.woff": "8a7aec78f48a1d43a7cf5c3623e467a9ebf24204",
     "/assets/fonts/wicked_mouse_demo-webfont.woff2": "c14725f8805df6f7c8f3df22d1ce6f4fe37afc15",
-    "/assets/i18n/en.json": "50b9d11affd0c6accdf24a3d9b3a83ef706e4ecb",
-    "/assets/i18n/fr.json": "c975dca89f5fbbf003ba7c975462d9ff2149499e",
+    "/assets/i18n/en.json": "2e3c926f0ccfb8b6eefda01e4c88b042d63f1d77",
+    "/assets/i18n/fr.json": "091acd842eb66f7af4309aed17c868013deffae1",
     "/assets/i18n/keys.json": "891c35c262b1a142ee24773abeb75d4910a2270f",
     "/assets/icons/icon-128x128.png": "d214a21933139f643ffcd1fdf4c0dc66888d65c7",
     "/assets/icons/icon-144x144.png": "1cb508b929d118f465de8dd7c118c9a9d864fc5e",
@@ -1910,8 +1910,8 @@
     "/assets/twotone/wallet.svg": "450239fff59398e7314a5d7b1201a0ce1699ec9f",
     "/assets/twotone/warning.svg": "ee982b671787446c8b9fc65d3d23b88943dc52ac",
     "/favicon.ico": "c59414d5fb03a26293bc25f98af72a233566b824",
-    "/index.html": "c6de1cbf81d855db253432a9abc995e35c22310c",
-    "/main.8654a2db7d21a203fb68.js": "63225e4d317432159f3aa57ebd788946a7ef7067",
+    "/index.html": "900733b75cc1472df6ddfd9b4e147bbf024486e4",
+    "/main.075b54264a8f8b8c7931.js": "de885e73fe888c44c4d4b9c65c9023e1b194e1e7",
     "/polyfills.0df3aa78a3eccf31b63d.js": "e16954bd0fa5aa761154acbc04d06ad2a78e0827",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/scripts.e84e36a0841a046b4d25.js": "8076fda56bf9c10afaf18ad5331cf28c3f2e844a",
